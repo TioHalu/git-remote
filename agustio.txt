@@ -1,0 +1,3 @@
+nama 	:agustio
+nim	:11031941xxxx
+email	:agustio@gmail.com
